@@ -1,0 +1,30 @@
+<head>
+    <meta charset="utf-8">
+    <link href="style/style.css" rel="styleSheet" type="text/css">
+
+<body>
+    <script>
+        function showsubpage(arg0) {
+            document.getElementById("content").src = arg0
+        }
+        function openpage(arg0) {
+            window.open(arg0)
+        }
+    </script>
+    <div id="header">
+        <div id="header-title">
+            <img src="resource/image/kmt.svg" width=70 height=70>
+            <p id="title">WELCOME TO KUOMINTANG666'S MAINPAGE!</p>
+            <img src="resource/image/kmt.svg" width=70 height=70>
+        </div>
+
+        <div id="header-buttons">
+            <button onclick="showsubpage('documents.html')">DOCUMENTS</button>
+            <button onclick="showsubpage('about.html')">ABOUT</button>
+            <button onclick="openpage('https://github.com/KuoMinTang666')">GITHUB MAINPAGE</button>
+        </div>
+
+    </div>
+    <iframe id="content" src=""></iframe>
+</body>
+</head>

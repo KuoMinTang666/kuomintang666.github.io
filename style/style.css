@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Opensans;
+    src: url("OpenSans-Regular.ttf");
+    text-align: center;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #0044ff;
+    border-radius: 20px;
+    margin: auto;
+    height: 30%;
+}
+
+#header-title {
+    margin: 10px 10px 10px 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#header-title img {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#header-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 70px;
+    margin: 10px 10px 10px 50px;
+}
+
+#header-buttons button {
+    border-radius: 5px;
+    border-style: none;
+    color: #fff;
+    font-size: 20px;
+    font-family: Opensans;
+    background-color: #0044ff;
+    transition-property: all;
+    transition-duration: 100ms;
+    width: 30%;
+    height: 100%;
+}
+
+#header-buttons button:hover {
+    background-color: #0088ff;
+    font-size: 30px;
+}
+
+#header-buttons button:active {
+    background-color: #0066ff;
+    font-size: 25px;
+}
+
+#title {
+    font-family: Opensans;
+    font-size: 50px;
+
+    color: #fff;
+}
+
+#content {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-style: none;
+    height: 67%;
+}
+
+p {
+    font-family: Opensans;
+    font-size: 20px;
+}
+
+.link {
+    font-family: Opensans;
+    font-size: 20px;
+}
+
+#documentcontent {
+    font-family: Opensans;
+    font-size: 20px;
+    flex-direction: column;
+}
