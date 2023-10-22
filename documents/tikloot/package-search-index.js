@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"net.kuomintang666.Tikloot.Encryption"},{"l":"net.kuomintang666.Tikloot.IO"},{"l":"net.kuomintang666.Tikloot.Observable"},{"l":"net.kuomintang666.Tikloot.Utils"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.kuomintang666.Tikloot.Encryption"},{"l":"io.github.kuomintang666.Tikloot.IO"},{"l":"io.github.kuomintang666.Tikloot.Observable"},{"l":"io.github.kuomintang666.Tikloot.Utils"}];updateSearchResults();
