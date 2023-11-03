@@ -1,6 +1,6 @@
-io.github.kuomintang666.Tikloot.Encryption
 io.github.kuomintang666.Tikloot.IO
-io.github.kuomintang666.Tikloot.IO.Stream
-io.github.kuomintang666.Tikloot.IO.Zip
-io.github.kuomintang666.Tikloot.Observable
-io.github.kuomintang666.Tikloot.Utils
+io.github.kuomintang666.Tikloot.IO.encryption
+io.github.kuomintang666.Tikloot.IO.stream
+io.github.kuomintang666.Tikloot.IO.zip
+io.github.kuomintang666.Tikloot.observable
+io.github.kuomintang666.Tikloot.utils
